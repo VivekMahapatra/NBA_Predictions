@@ -1,8 +1,8 @@
-# NBA_Predictions
+# **NBA_Predictions**
 
 By Ryan Ahmed, Ajay Ambati, Sathya Balakumar, Hamza Shaikh, and Vivek Mahapatra
 
-Introduction
+# Introduction
 
 The National Basketball Association (NBA) is composed of some of the world’s top notch athletes. These athletes are placed on one of 30 NBA teams to compete for a championship. In order to get there, however, teams must win games during the regular season, which is composed of 82 games. Typically, if a team wins more than half its games (42 or more) in the regular season, there is a good chance it will make the playoffs. There are several factors to winning more than 50% of games and securing an above 0.500 record. These include shooting percentages, injuries, opponent field goal percentages, points per game, and many more advanced statistics. Our goal in this project is to analyze the various features that influence winning games and predict whether an NBA team will have an above 0.500 record, or at least 43 wins. We will rely on advanced NBA statistics from previous NBA seasons. This is a binary classification problem in which a ‘1’ signifies that the team will have an above 0.500 record, while ‘0’ signifies otherwise.
 
